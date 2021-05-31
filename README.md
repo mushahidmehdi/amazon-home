@@ -1,5 +1,5 @@
 # amazon-clone-in-react
-In this Project we will  clone amazon home page.
+In this Project we will  clone amazon home page https://amazohomecomponent.web.app/.
 
 # Getting Started with Create React App
 
