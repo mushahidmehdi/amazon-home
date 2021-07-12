@@ -1,3 +1,5 @@
+![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fslackcompo.web.app%2F)
+
 # amazon-clone-in-react
 In this Project we will  clone amazon home page https://amazohomecomponent.web.app/.
 
